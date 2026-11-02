@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fc54ddd60762e6243975b19dc41bb81c
+timeCreated: 1566141493
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150116
+  packageName: Polygonal Fantasy Cemetery - Stylized Low Poly Art
+  packageVersion: 1.5.0
+  assetPath: Assets/Polygonal Modular Cemetery/Assets/Prefabs/Items/Witch_Bag.prefab
+  uploadId: 585503

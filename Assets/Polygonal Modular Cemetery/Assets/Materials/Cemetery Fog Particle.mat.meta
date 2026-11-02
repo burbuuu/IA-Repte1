@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2a0c0eb7584d49b47abf04f7d5b194c8
+timeCreated: 1566182065
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150116
+  packageName: Polygonal Fantasy Cemetery - Stylized Low Poly Art
+  packageVersion: 1.5.0
+  assetPath: Assets/Polygonal Modular Cemetery/Assets/Materials/Cemetery Fog Particle.mat
+  uploadId: 585503

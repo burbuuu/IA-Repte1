@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dd0d47507bb76034f809b5b703276534
+timeCreated: 1566142771
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150116
+  packageName: Polygonal Fantasy Cemetery - Stylized Low Poly Art
+  packageVersion: 1.5.0
+  assetPath: Assets/Polygonal Modular Cemetery/Assets/Prefabs/Props/Cemetery_Gate_Column.prefab
+  uploadId: 585503

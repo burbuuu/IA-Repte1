@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 05fe22317f7f02042964cc251832758b
+timeCreated: 1566185540
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150116
+  packageName: Polygonal Fantasy Cemetery - Stylized Low Poly Art
+  packageVersion: 1.5.0
+  assetPath: Assets/Polygonal Modular Cemetery/Assets/Prefabs/Particles/Stars.prefab
+  uploadId: 585503

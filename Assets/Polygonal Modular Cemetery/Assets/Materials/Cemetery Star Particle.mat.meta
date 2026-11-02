@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4648ac110a2bfe74689b5d9f0a71de75
+timeCreated: 1566184714
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150116
+  packageName: Polygonal Fantasy Cemetery - Stylized Low Poly Art
+  packageVersion: 1.5.0
+  assetPath: Assets/Polygonal Modular Cemetery/Assets/Materials/Cemetery Star Particle.mat
+  uploadId: 585503

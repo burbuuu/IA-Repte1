@@ -1,0 +1,8 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htbp]
+    \centering
+    \includegraphics[width=0.8\textwidth]{images/NavMesh.png}
+    \caption{Vista de la configuració del NavMesh.}
+    \label{fig:navmesh_cemetery}
+\end{figure*}

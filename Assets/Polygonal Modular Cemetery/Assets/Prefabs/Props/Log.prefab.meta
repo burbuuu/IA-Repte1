@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7b90ffe880fa8bd4a90019715938e235
+timeCreated: 1566142784
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150116
+  packageName: Polygonal Fantasy Cemetery - Stylized Low Poly Art
+  packageVersion: 1.5.0
+  assetPath: Assets/Polygonal Modular Cemetery/Assets/Prefabs/Props/Log.prefab
+  uploadId: 585503

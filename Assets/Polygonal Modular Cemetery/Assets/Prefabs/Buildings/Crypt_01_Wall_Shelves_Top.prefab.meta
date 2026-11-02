@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 250117befd9d6424fb09186dc1d85729
+timeCreated: 1566141211
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150116
+  packageName: Polygonal Fantasy Cemetery - Stylized Low Poly Art
+  packageVersion: 1.5.0
+  assetPath: Assets/Polygonal Modular Cemetery/Assets/Prefabs/Buildings/Crypt_01_Wall_Shelves_Top.prefab
+  uploadId: 585503

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c3eae053855fa284cb90e4ce4728b5f4
+timeCreated: 1566142856
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150116
+  packageName: Polygonal Fantasy Cemetery - Stylized Low Poly Art
+  packageVersion: 1.5.0
+  assetPath: Assets/Polygonal Modular Cemetery/Assets/Prefabs/Roads/Road_01_Straight.prefab
+  uploadId: 585503

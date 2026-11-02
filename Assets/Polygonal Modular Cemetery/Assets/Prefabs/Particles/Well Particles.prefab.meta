@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2b45d75e43e199145b156807c463e956
+timeCreated: 1566178595
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150116
+  packageName: Polygonal Fantasy Cemetery - Stylized Low Poly Art
+  packageVersion: 1.5.0
+  assetPath: Assets/Polygonal Modular Cemetery/Assets/Prefabs/Particles/Well Particles.prefab
+  uploadId: 585503
